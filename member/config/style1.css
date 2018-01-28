@@ -1,0 +1,117 @@
+body {
+        font-family: tahoma, helvetica, arial, sans-serif;
+        font-size: 14px;
+        text-align: left;
+        background: #FFFFFF;
+ 
+}
+
+a:link, a:visited {
+	color:#007495;
+	font-weight:bold;
+	text-decoration:none;
+}
+ input, select{
+    background-color: #FFFFFF;
+    font-size: 12px;
+	font-family:ARIAL;
+
+}
+textarea{
+    background-color: #FFFFFF;
+    font-size: 14px;
+}
+hr {
+	border-bottom: 1px dashed #9d9d9d;
+}
+
+#menu{
+	font-family:Tahoma;
+	font-size:11px;
+    color:#ffffff;
+}
+#menu a:link, #menu a:visited {
+	color: #ffff00;
+}
+#menu a:hover {
+	color:#ffffff;
+}
+#kiri{
+	font-family:ARIAL;
+	font-size:11px;
+   color:#fffff;
+
+  
+}
+#kiri a:link, #kiri a:visited {
+	color: #ffff00;
+}
+#kiri a:hover {
+	color:#ffffff;
+}
+
+.isi {
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	text-align:justify;
+	line-height: 18px;
+
+}
+.bullet{
+	font-family:Tahoma;
+	font-size:14px;
+	padding-left:1px;
+	color:#ffffff;
+	text-align:justify;
+	line-height: 18px;
+}
+.isi_kecil
+{
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	color:#FF6600;
+}
+
+.isi_besar
+{
+	font-family:Tahoma;
+	font-size:12px;
+	padding-left:4px;
+	background-color: #FFFFFF;
+	color:#;
+	
+}
+.isi_besar1
+{
+	font-family:Tahoma;
+	font-size:12px;
+	padding-left:4px;
+	background-color: #CCCCCC;
+	color:#;
+	
+}
+.judul {
+	font-family:Tahoma;
+	font-size:12px;
+	font-weight:bold;
+	color:#265180;
+	padding-left:4px;
+ }
+.judul_head {
+	font-family:Georgia;
+	font-size:16px;
+	font-weight:bold;
+	background-color: #;
+    color:#;
+    padding-left:14px;
+
+}
+.kembali {
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	text-align:center;
+}
+

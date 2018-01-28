@@ -1,0 +1,24 @@
+
+	 #divTrigger a:link,#divTrigger a:visited{
+	 	text-decoration: none; /* hilangkan garis bawah pada link */
+	 	margin:1px 0px; /* memberi jarak antar link */
+	 	padding: 2px 8px; /* menjadikan link seperti kotak */
+	 	border: 0px solid #000;
+ 		font-family: Arial;
+	    font-size: 10px;
+	    color:#00000;
+	    font-size: 12px;
+	    font-weight: bold;
+	 }
+	 /* link yang dilalui oleh mouse dan element dengan class='selected' akan mempunyai efek yang sama */
+	 #divTrigger a:hover,#divTrigger a:active,.selected{ 
+	    background-color: #000;
+	    color:#000;
+	 }
+
+	 #divContent div{ 
+	 	/* semua div di dalam element dengan id='divContent' akan di sembunyikan sementara */
+	 	display:none
+	 }	
+
+
